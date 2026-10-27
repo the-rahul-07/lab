@@ -1,4 +1,3 @@
-
 SIZE = 10
 table = [None] * SIZE
 deleted = "DELETED"
