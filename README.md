@@ -47,7 +47,7 @@ Second-Year-Engineering-Lab-Programs/
 │   └── python/
 ├── OOPCG/
 │   ├── oops/
-|   |-- cg/
+|   ├── cg/
 └── README.md
 ```
 
