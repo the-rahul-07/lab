@@ -2,7 +2,7 @@
 
 A collection of practical programs and lab assignments completed during **Second Year of Engineering**.
 
-This repository contains programs for **Data Structures (DS)** and **Object-Oriented Programming and Computer Graphics (OOPCG)**, written in **C++ Python and java **. The aim is to keep practical codes organised in one place for learning, practice, and lab exam revision.
+This repository contains programs for **Data Structures (DS)** and **Object-Oriented Programming and Computer Graphics (OOPCG)**, written in **C++ Python and java**. The aim is to keep practical codes organised in one place for learning, practice, and lab exam revision.
 
 ---
 
